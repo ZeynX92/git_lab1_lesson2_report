@@ -1,1 +1,0 @@
-# git_lab1_lesson2_report
